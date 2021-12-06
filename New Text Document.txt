@@ -1,0 +1,28 @@
+{'rouge-1': {'r': 0.2302458332255174, 'p': 0.26510716394592704, 'f': 0.24582666185375315}, 'rouge-2': {'r': 0.039881504023317714, 'p': 0.049161118947036314, 'f': 0.04391649819466379}, 'rouge-l': {'r': 0.2160629129321702, 'p': 0.2489
+0555632287767, 'f': 0.23073588726852368}}
+{'rouge-1': {'r': 0.36609757856470054, 'p': 0.20620858186812563, 'f': 0.2580114826675477}, 'rouge-2': {'r': 0.08417239120027173, 'p': 0.04457640038663035, 'f': 0.05660362248734483}, 'rouge-l': {'r': 0.3376915668754376, 'p': 0.189651
+1895146973, 'f': 0.2375522603375795}}
+{'rouge-1': {'r': 0.2852399358190825, 'p': 0.2528613585712548, 'f': 0.2607593183042195}, 'rouge-2': {'r': 0.059018762802782544, 'p': 0.053765081375998405, 'f': 0.05451215421693891}, 'rouge-l': {'r': 0.2631960720639934, 'p': 0.232630
+4342134099, 'f': 0.24021324509403763}}
+
+task1
+task2
+task2shorter
+
+
+https://huggingface.co/docs/transformers/model_doc/bart
+
+https://huggingface.co/docs/transformers/model_doc/bart
+
+[Marks 40] Code + datasets
+Must be well structured and well commented code. Appropriately incorporate multiple datasets/models. Include the instructions for us on how to run your code.
+[Marks 20] Report (~3 - 5 pages, single spaced, include figures as useful;)
+Point out any important details regarding your approaches to unknown words, training, decoding, etc.
+What did you do and why is it interesting?
+How do your model(s) work? (explain)
+Evaluation methodology and results
+What are your results/conclusions?
+Future experiments/work?
+Works Cited
+Any specific supplementary materials for your project
+
